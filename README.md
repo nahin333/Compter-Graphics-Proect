@@ -1,1 +1,1 @@
-# Compter-Graphics-Proect
+# Compter-Graphics-Project
